@@ -21,3 +21,9 @@ window.alert("attention!");
 //console.dir->document------>prints the properties and methods.
 //use for dynamic changes 
 
+//DOM MANIPULATION 
+//Accessing elements
+
+///Selecting element by ID
+
+document.getElementById("home")
